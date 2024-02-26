@@ -1,0 +1,10 @@
+{
+	"modules": { 
+		"NombrePaireImpaire": {
+			"version": "1.0",
+			"name": "paireimpaire",
+			"rules": ["peer number"]
+		}
+	}
+}
+			
